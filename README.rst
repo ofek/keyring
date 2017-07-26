@@ -35,7 +35,7 @@ These recommended keyring backends are supported by the Python keyring lib:
 * `KWallet <https://en.wikipedia.org/wiki/KWallet>`_
   (requires `dbus <https://pypi.python.org/pypi/dbus-python>`_)
 * `Windows Credential Vault
-  <http://windows.microsoft.com/en-us/windows7/what-is-credential-manager>`_
+  <https://docs.microsoft.com/en-us/windows/uwp/security/credential-locker>`_
 
 Other keyring implementations are provided in the `keyrings.alt package`_.
 
